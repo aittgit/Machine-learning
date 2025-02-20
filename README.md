@@ -1,2 +1,2 @@
 # Machine-learning
-This repository is to test machine learning algorithms for a performance dataset
+This repository is to test machine learning algorithms for a cleaned performance dataset. Pycaret module is used for automation. It is a powerful tool to explore and compare various machine learning models. Creation of individual model, tuning it, blending, stacking up are tested. Model results are explored with SHAP analysis and feature importance plots, which allows to understand the driving factors for the target, as well as proposing predictive modelling routes. 
